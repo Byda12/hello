@@ -1,0 +1,52 @@
+body{
+    background-color: cornflowerblue;
+    color: black;
+}
+h1{
+    color: crimson;
+    font-size: 50px;
+    font-style: italic;
+}
+span{
+    font-size:60px;
+    color: greenyellow;
+}
+h2{
+    text-decoration: underline;
+}
+h3{
+    color: coral;
+}
+i{
+    font-style: normal;
+}
+b{
+   font-weight: normal;
+}
+
+.headlineOne{
+    color: orangered;
+}
+
+#headlineTwo{
+    color: yellow;
+}
+.content p:first-child{
+    color: greenyellow;
+    font-size: 30px;
+}
+
+.content p:last-child{
+    color: gold;
+    font-size: 30px;
+}
+
+.content p:nth-child(3){
+    color: red;
+    font-size: 30px;
+}
+
+.content p:nth-child(4){
+    color: red;
+    font-size: 30px;
+}

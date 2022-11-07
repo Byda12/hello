@@ -1,0 +1,3 @@
+Uninstall any version of WinRAR you may have now, and install this one.
+
+Feel free to edit the "rarreg.key" file in the WinRAR installation directory to include your name, and web site or email address [this information is only used if you check the 'Put authenticity verification' option when making an archive].
